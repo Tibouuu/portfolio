@@ -1,0 +1,87 @@
+[
+  {
+    "id": 0,
+    "name":"Emma Garnaud",
+    "subtitle": "Site e-commerce d'art",
+    "categories":"Webdesign et développement web",
+    "description":"Notre agence web fictive nommée “<strong>Weburger</strong>” a été en charge de produire un site permettant à la fois de présenter à l’image d’un portfolio mais aussi de vendre les œuvres proposées par Mme Garnaud. Le projet prend naissance à partir des premières réflexions concernant l’<strong>identité visuelle</strong> désirée par notre commanditaire, jusqu’à l’<strong>élaboration complète</strong> du site web en question.<br><br> Partant d’un brief clair concernant les attentes, les choix visuels et les volontés de Mme Garnaud, nous avons commencé par produire une <strong>charte graphique</strong> résultant d’un <strong>moodboard</strong> regroupant toutes les inspirations en lien avec l’univers que notre commanditaire souhaitait voir naître sur son site. Notre agence se basant sur un accompagnement et une communication poussée avec son client tout le long du projet, nous avons pris la décision de souvent donner des nouvelles à Mme Garnaud en lui montrant notre avancée, afin qu’elle puisse nous rectifier rapidement en cas de mauvais choix de notre part. Le projet est acutellement toujours en développement et sera disponible prochainement.",
+    "role": "Ma tâche principale a été de concevoir la <strong>maquette</strong> du site et de pousser la réflexion de l’expérience utilisateur qu’il offrirait à ses futurs visiteurs. J’ai d’abord mis en place des <strong>wireframes</strong> pour visualiser la disposition des éléments et fonctionnalités, avant de créer plusieurs designs en fonction des supports qui seraient utilisés pour accéder au site (ordinateur, tablette, téléphone ...). Après une réunion d’équipe en présence de notre commanditaire, nous avons pu valider la maquette et poursuivre le projet en démarrant son développement technique.",
+    "status": "En cours",
+    "group": "5",
+    "date": "2024",
+    "images":["./public/img/projects/project-1/emma-garnaud.jpg"],
+    "url": "/img/projects/project-1/emma-garnaud.jpg",
+    "class":"Pro"
+  },
+  {
+    "id": 1,
+    "name":"Weburger",
+    "subtitle": "Agence web fictive",
+    "categories":"Webdesign et branding",
+    "description":"Notre agence web fictive nommée “<strong>Weburger</strong>“ est un projet universitaire qui consiste à créer une agence web en établissant charte graphique, valeurs, identité visuelle globale, afin de répondre à des besoins réels de commanditaires. Ce projet a pour objectif de faire travailler les étudiants dans un contexte professionnel et avec des responsabilités bien présentes. Cela m'a permis de me créer une nouvelle expérience profesionnelle en webdesign. Notre premier commanditaire est à ce jour Mme Garnaud dont vous pouvez apercevoir les débuts de travaux <strong><a href='/project/0'>ici</a></strong>.<br><br> Notre agence fut également présentée à des personnes issues du domaine de l'entrepreunariat, et elle repose sur une identité 'fast-food' pour le côte du travail rapide, efficace et répondant aux attentes du client. Nous sommes toujours actuellement en train de travailler sur les projets profesionnels qui nous ont été assignés sous le nom de Weburger.",
+    "role": "Je suis intervenu au niveau de la charte graphique de l'agence, son identité. Aussi, mon rôle a été de présenter les travaux réalisés (maquettes et designs) par l'agence au client, comme ce fut le cas avec Mme Garnaud récemment. J'interviens principalement sur le webdesign et le maintien de la ligne directrice sur les gestions de projets afin qu'ils correspondent aux principes de notre agence web.",
+    "status": "En cours",
+    "group": "5",
+    "date": "2024",
+    "images":["./public/img/projects/project-2/weburger.png"],
+    "url": "/img/projects/project-2/weburger.png",
+    "class":"études"
+  },
+  {
+    "id": 2,
+    "name":"Sandra Thys",
+    "subtitle": "Site vitrine de naturopathie",
+    "categories":"UX/UI Design et Wordpress",
+    "description":"Durant mon stage de deuxième année d'études, j'ai rejoint l'équipe de Sandra Thys,une <strong>naturopathe</strong> émergente dans la région du Pas-de-Calais qui avait besoin de créer son identité sur internet. En tant que stagiaire dansson entreprise, il m'a fallu définir ce qu'allait dégager sa marque sur les réseaux sociaux, et sur un site web dédié sur lequel elle peutprésenter son domaine d'expertise ainsi que proposer plusieurs prestations à de potentiels clients. Durant deux mois, j'ai donc développé sacharte graphique, analysé la cible que visait Sandra Thys afin de développer un site wordpress cohérent et en lien avec les personnes qui le visiteraient.Travailler avec des responsabilités telles que celles-ci m'ont aidé à progresser en termes de rigueur et de critique du travail.C'est une expérience enrichissante qui aide à prendre du recul sur ses réalisations et prendre des initiatives pour résoudre les problèmes rencontrés durant les missions de travail.",
+    "role": "Je suis intervenu sur absolument tous les points du projet : identité visuelle, veille, charte graphique, relation client... J'ai utilisé différents outils tels que Figma etWordpress. C'est en autonomie que j'ai délivré différentes versions du site pour en tirer la plus cohérente. J'ai dû faire preuve d'écoute et de pour répondre au maximum au besoin de l'entreprise. Je possédais la responsabilité de sa visibilité sur internet.Ce projet est probablement celui dans lequel j'ai dû le plus m'inverstir pour fournir un travail le plus complet possible, c'est en prenant note des conseils et des modifications à effectuer que je suis parvenu à délivrer un résultat le plus satisfaisant pour Sandra Thys.",
+    "status": "Terminé",
+    "group": "1",
+    "date": "2023",
+    "images":["./public/img/projects/project-3/sandra.png"],
+    "url": "/img/projects/project-3/sandra.png",
+    "class":"Pro"
+  },
+  {
+    "id": 3,
+    "name":"Ecoal Project",
+    "subtitle": "Newspaper numérique",
+    "categories":"ReactJS et UX/UI Design",
+    "description":"Le projet Ecoal est une semaine durant laquelle un groupe de cinqpersonnes venant de pays différents doivent coopérer pour construire une application ReactJS pour mobilesur le thème : <strong>Newspaper</strong>. L'objectif était d'organiser son travail le plus efficacement possible pourprésenter en anglais à un jury notre application qui devait comprendre : un système de recherce d'articles,un système de connexion et d'inscription permettant de liker et commenter un article, ou encore le postd'article.<br><br>Notre application s'est appelée <strong>The Daily Scoop</strong> et présentait des articles en tout genre sur des thèmes précis tels que l'art, la musique, le sport, ou encore les nouvelles technologies. Un système de swipe est le coeur même de notre concept, regarder des articles relativement courts pour s'informer en vitesse de plusieurs sujets différents. Nous sommes parvenus en l'espace de quatre jours de travail intensif à produire un résultat satisfaisant.Le projet Ecoal a été l'un des plus éprouvant pour moi, mais il m'a permis d'en apprendre beaucoup sur le travail en équipe, la gestion des priorités et l'organisation du travail. J'ai également pu améliorer mon niveau d'anglais en raison des origines de chacun de notre groupe. La création, la conception et la présentation du travail s'est faite en anglais. Je retiens de cette expérience un apprentissage certain sur ce qu'est une équipe de travail dans une université mais aussi en entreprise.",
+    "role": "Dans la réalisation de The Daily Scoop, je me suis chargé de concevoir les pages dans l'application ReactJS. C'est un travail de Front End que j'ai réalisé avec motivation, j'ai conçu le système de recherche des articles, la page principale, le menu déroulant, les pages de connexion ainsi que d'inscription. J'ai également participé au design en m'occupant du CSS sur de nombreuses pages.",
+    "status": "Terminé",
+    "group": "5",
+    "date": "2023",
+    "images":["./public/img/projects/project-4/ecoal.png"],
+    "url": "/img/projects/project-4/ecoal.png",
+    "class":"études"
+  },
+  {
+    "id": 4,
+    "name":"MMISTERIES",
+    "subtitle": "Jeu interactif",
+    "categories":"Développement web et UX/UI Design",
+    "description": "Dans le cadre d'un projet étudiant au sein de l'<strong>IUT de Lens</strong>, notre projet a proposé du 2 au 5 décembre 2022 un jeu interactif disponible sur un site que j'ai codé en laravel. L'objectif était de proposer une expérience originale et ludique aux étudiants de l'université qui les plongeait dans un univers fantastique et mystérieux dans lequel ils devaient, par trio, résoudre des <strong>énigmes</strong> directement le site web à l'aide d'indices dissimulés dans l'établissement. Mon groupe et moi devions donc organiser la totalité de l'événement, sa communication, son attractivité, et les récompenses que gagnaient les équipes à la fin de la semaine de jeu.Le projet a rassemblé plus de vingt personnes qui ont participé avec motivation et engouement au jeu. En tout, il y a eu une dizaine d'énigmes en lien avec la formation MMI sur le site web toutes avec des difficultés différentes. Le site présentait une timeline de la progression des joueurs dans le jeu, les différents indices à leur dispositions, ou encore le classement de chaque équipe automatiquement mis à jour depuis une base de données. <br><br>Je retiens de ce projet une expérience enrichissante et très formatrice en termes d'organisation et de rigueur. En effet, le temps imparti pour réaliser MMISTERIES était relativement court et j'ai dû m'adapter aux problèmes rencontrés rapidement pour présenter la meilleure version possible du site web lors de l'événement. J'ai renconté des difficultés pendant la semaine de jeu et j'ai su les régler le plus vite possible en prenant en compte mes erreurs afin de ne plus les reproduire dans le futur.",
+    "role": "J'ai participé activement à la réalisation du projet en m'occupant en grande partie du développement du site de jeu. J'ai mis en place le design du site et codé la totalité des énigmes, indices, et système de classements des équipes. J'ai également géré la base de données sous SQL et réalisé le système de compte et de connexion/inscription pour permettre aux équipes de se trouver un nom, un slogan, et une photo de profil. Le tout avec l'outil laravel.",
+    "status": "Terminé",
+    "group": "4",
+    "date": "2022",
+    "images":["./public/img/projects/project-5/mmisteries.jpg"],
+    "url": "/img/projects/project-5/mmisteries.jpg",
+    "class":"études"
+  },
+  {
+    "id": 5,
+    "name":"Skybound Scavenger",
+    "subtitle": "Jeu mobile sur android",
+    "categories":"Android",
+    "description":"Pendant une période de trois mois, j'ai eu pour projet dans un groupe de trois personnes de réaliser un jeu mobile ayant pour objectif d'être disponible au téléchargement, à la fin de ce délai. Notre jeu s'appelle <strong>Skybound Scavenger</strong>. Il s'agit d'un plateformer 2D dans lequel le joueur contrôle un oiseau mécanique ayant pour objectif de récupérer des pièces de métal pour améliorer son corps. Face à une multitude d'ennemis différents, le but du jeu est d'arriver à la fin du niveau sans se faire toucher une seule fois et en ayant récupéré assez de pièces. Nous avons réalisé ce jeu à l'aide du langage de programmation Kotlin que nous avons dû apprendre à utiliser à l'aide de ce projet, nos connaissances partaient de zéro. C'est en utilisant un petit moteur de jeu nous ayant été fourni que nous avons réalisé le gameplay, les ennemis, la physique du jeu, le leveldesign et les graphismes en pixel art.",
+    "role": "J'ai participé activement au code pur via Kotlin du jeu. J'ai utilisé Android Studio pour créer des ennemis, gérer leurs déplacements et leur réaction face au joueur. J'ai réalisé participé à la création de la carte, de la physique du jeu, je me suis chargé des effets de particules et également du logo du jeu avec son trailer. Ce projet a été très complexe à mettre en oeuvre en raison de notre manque complet d'expérience en Kotlin. L'objectif était avant tout de nous apprendre à nous adapter et établir un ordre des priorités car un jeu entier n'était pas faisable en seulement trois mois. C'est une expérience ludique et très riche en compétences qui m'offre un premier aperçu du développement d'application mobile pour android.",
+    "status": "Terminé",
+    "group": "3",
+    "date": "2023",
+    "images":["./public/img/projects/project-6/jeu.png"],
+    "url": "/img/projects/project-6/jeu.png",
+    "class":"études"
+  }
+
+]

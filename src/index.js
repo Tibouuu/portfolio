@@ -1,13 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
+import { BrowserRouter } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
+import './fonts/Gotham-Black.otf';
+import './fonts/Gotham-Thin.otf';
+import './fonts/GothamBook.ttf';
+import './fonts/GothamBold.ttf';
+import "./index.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+      <BrowserRouter>
+          <App />
+      </BrowserRouter>
   </React.StrictMode>
 );
 
